@@ -92,6 +92,8 @@
               <textarea rows="10" cols="100" class="form-control" name="message" id="message" required data-validation-required-message="Bitte Ihre Nachricht eintragen." maxlength="999" style="resize:none"></textarea>
             </div>
           </div>
+            <div id="failure" class="alert alert-danger" role="alert">Ihre Nachricht konnte nicht gesendet werden!</div>
+          <!-- For success/fail messages -->
 <input type="submit" class="btn btn-primary">
 </form><br><br><br>
     
