@@ -59,7 +59,11 @@ Gefällt es den Kindern, gibt es die Möglichkeit, nach dem Durchlaufen der einz
 
 <h4>Das EWTO-Kids-WingTsun-Programm</h4>
 <p style="text-align: justify">
-Das Konzept darf nur von Ausbildern und Lehrern der EWTO unterrichtet werden, die sich zusätzlich in einer mehrtägigen Schulung die Qualifikation „Fachtrainer für Kids-WT“ erworben haben. Wir sind Fachtrainer für Kids-WingTsun.</p><br><br><br>
+Das Konzept darf nur von Ausbildern und Lehrern der EWTO unterrichtet werden, die sich zusätzlich in einer mehrtägigen Schulung die Qualifikation „Fachtrainer für Kids-WT“ erworben haben. Wir sind Fachtrainer für Kids-WingTsun.<br><br>
+      
+Mehr über unseren Dachverband EWTO erfahren sie <a href="dachverband-1-ewto.php">hier</a><br><br>
+
+<a href="kontakt.php">Noch Fragen? Hier geht's zum Kontaktformular</a><br></p><br><br><br>
      
 
   </div>
