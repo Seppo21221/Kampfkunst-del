@@ -17,33 +17,13 @@
   <link href="css/modern-business.css" rel="stylesheet">
 
 </head>
-<style>
-    .inline-parent{
-        position: relative;
-    }
-    .stack-bot{
-        width: 100%;
-        height: 100%;            
-        position: absolute;
-        z-index: -1;
-    }
-    .stack-top{           
-        margin: 0 auto;
-        top: 700px;
-        position: relative;
-        background-color: white;
-        overflow: visible;
-        z-index: 1;
-    }
-</style>
+
 <body>
      
   <?php include "php/navigation.php";?>
 
-    
-    <div class="inline-parent">
-        <div class="stack-bot">
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="max-width: 2000px; margin: auto">
+  <header>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="max-width: 1500px; margin: auto">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -81,10 +61,10 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-        </div>
+  </header>
 
   <!-- Page Content -->
-  <div class="container stack-top rounded">
+  <div class="container">
 
     <h1 class="my-4">Willkommen beim Kampfkunstzentrum Delmenhorst(?)</h1>
       
@@ -121,7 +101,7 @@ Sicherheit ist erlernbar und macht Spaß.</p>
             </p>
           </div>
           <div class="card-footer">
-            <a href="portfolio-1-kidswt.php" class="btn btn-primary">Mehr erfahren</a>
+            <a href="#" class="btn btn-primary">Mehr erfahren</a>
           </div>
         </div>
       </div>
@@ -135,7 +115,7 @@ Sicherheit ist erlernbar und macht Spaß.</p>
             </p>
           </div>
           <div class="card-footer">
-            <a href="portfolio-2-wt.php" class="btn btn-primary">Mehr erfahren</a>
+            <a href="#" class="btn btn-primary">Mehr erfahren</a>
           </div>
         </div>
       </div>
@@ -149,7 +129,7 @@ Sicherheit ist erlernbar und macht Spaß.</p>
             </p>
           </div>
           <div class="card-footer">
-            <a href="portfolio-3-escrima.php" class="btn btn-primary">Mehr erfahren</a>
+            <a href="#" class="btn btn-primary">Mehr erfahren</a>
           </div>
         </div>
       </div>
@@ -162,13 +142,13 @@ Sicherheit ist erlernbar und macht Spaß.</p>
             </p>
           </div>
           <div class="card-footer">
-            <a href="portfolio-4-tkd.php" class="btn btn-primary">Mehr erfahren</a>
+            <a href="#" class="btn btn-primary">Mehr erfahren</a>
           </div>
         </div>
       </div>
     <!-- /.row -->    
 
-      </div></div></div><br><br><br>
+  </div><br><br><br>
   <!-- /.container -->
 
   <!-- Footer -->

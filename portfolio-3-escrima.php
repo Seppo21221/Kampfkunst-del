@@ -43,11 +43,7 @@
 <p style="text-align: justify">
 Escrima ist eine philippinische Stock und Schwertkampfkunst, die bei näherer Betrachtung auch unbewaffnet funktioniert und sich ebenfalls durch hohen praktischen Wert auszeichnet.<br><br>
 
-Durch den völligen verzicht auf die Einschränkungen des Wettkampfes rückt die Selbstverteidigungsfähigkeit in den Fokus. Das Erlernen des Umgangs mit Hiebwaffen ermöglicht hierfür vor allem die sichere Verwendung von Alltagsgegenständen wie Feuerzeugen, Schlüsseln, Handtaschen oder Regenschirmen. Der Umgang mit Hieb und Stichwaffen wird hierbei sicher gelehrt. Zunächst werden die Grundtechniken und Abläufe ohne Partner eingeübt, sodass die Handhabung der Übungsstöcker trainiert und die theoretische Grundlage aufgebaut wird. Dies wird später durch Partnerübungen ergänzt, welche die tatsächliche Handlungsfähigkeit in einer Gefahrensituation schulen. Grundsätzlich wird hierbei nur mit Übungsstöckern und Übungswaffen mit stumpfer Klinge trainiert.<br><br>
-      
-Mehr über unseren Dachverband EWTO erfahren sie <a href="dachverband-1-ewto.php">hier</a><br><br>
-
-<a href="kontakt.php">Noch Fragen? Hier geht's zum Kontaktformular</a><br></p><br><br><br>
+Durch den völligen verzicht auf die Einschränkungen des Wettkampfes rückt die Selbstverteidigungsfähigkeit in den Fokus. Das Erlernen des Umgangs mit Hiebwaffen ermöglicht hierfür vor allem die sichere Verwendung von Alltagsgegenständen wie Feuerzeugen, Schlüsseln, Handtaschen oder Regenschirmen. Der Umgang mit Hieb und Stichwaffen wird hierbei sicher gelehrt. Zunächst werden die Grundtechniken und Abläufe ohne Partner eingeübt, sodass die Handhabung der Übungsstöcker trainiert und die theoretische Grundlage aufgebaut wird. Dies wird später durch Partnerübungen ergänzt, welche die tatsächliche Handlungsfähigkeit in einer Gefahrensituation schulen. Grundsätzlich wird hierbei nur mit Übungsstöckern und Übungswaffen mit stumpfer Klinge trainiert.</p><br><br><br>
      
 
   </div>

@@ -47,17 +47,23 @@ Taekwondo ist ein System der waffenlosen Selbstverteidigung, dessen Ursprungslan
       <p style="text-align: justify">
 das Kämpferische Ziel des Trainings ist es die Körpersprache des Angreifers so zu verstehen, dass rechtzeitig adäquate Maßnamen getroffen werden können um den Angriff schnellstmöglich und umfassend zu stoppen.<br><br>
 
-Der Schwerpunkt liegt dabei nicht auf dem sportlichen Wettkampf, sondern der Selbstverteidigung. Das heißt, dass die Fußlastigkeit abnimmt und die Elemente die in der Form (Poomse) enthalten sind viel mehr Gewicht erhalten.<br><br>
+Der Schwerpunkt liegt dabei nicht auf dem sportlichen Wettkampf, sondern der Selbstverteidigung. das heißt, dass die Fußlastigkeit abnimmt und die Elemente die in der Form (Poomse) enthalten sind viel mehr Gewicht erhalten.<br><br>
 
 In der versportlichten Fassung werden viele Techniken kaum oder gar nicht als Anwendung trainiert, weil sie nicht wettkampfkompatibel sind und der Schüler mit den Wettkampfregeln kollidieren könnte.</p>
 
 <h2>Wer kann Tae Kwon Do erlernen?</h2>
       <p style="text-align: justify">
-Tae Kwon Do ist für alle gleichermaßen geeignet – ob klein oder groß, jung oder alt. Durch seinen speziellen Fokus auf Konzepte im Unterricht, die alle persönlichen Einschränkungen des jeweiligen Schülers berücksichtigen, ist Tae Kwon Do auch für Menschen mit körperlichen und/oder geistigen Einschränkungen geeignet. Individuelle Lösungen können im Unterricht gefunden werden!<br><br>
-      
-Mehr über unseren Dachverband World Taekwondo erfahren sie <a href="dachverband-2-wtf.php" >hier</a><br><br>
+Tae Kwon Do ist für alle gleichermaßen geeignet – ob klein oder groß, jung oder alt.
 
-<a href="kontakt.php">Noch Fragen? Hier geht's zum Kontaktformular</a><br></p><br><br><br>
+Durch seinen speziellen Fokus auf Konzepte im Unterricht, die alle persönlichen Einschränkungen des jeweiligen Schülers berücksichtigen, ist Tae Kwon Do auch für Menschen mit körperlichen und/oder geistigen Einschränkungen geeignet. Individuelle Lösungen können im Unterricht gefunden werden!</p><br><br>
+      
+      <p style="text-align: justify">
+Tae Kwon Do ist für alle gleichermaßen geeignet – ob klein oder groß, jung oder alt.
+
+Durch seinen speziellen Fokus auf Konzepte im Unterricht, die alle persönlichen Einschränkungen des jeweiligen Schülers berücksichtigen, ist Tae Kwon Do auch für Menschen mit körperlichen und/oder geistigen Einschränkungen geeignet. Individuelle Lösungen können im Unterricht gefunden werden!</p><br><br><p style="text-align: justify">
+Tae Kwon Do ist für alle gleichermaßen geeignet – ob klein oder groß, jung oder alt.
+
+Durch seinen speziellen Fokus auf Konzepte im Unterricht, die alle persönlichen Einschränkungen des jeweiligen Schülers berücksichtigen, ist Tae Kwon Do auch für Menschen mit körperlichen und/oder geistigen Einschränkungen geeignet. Individuelle Lösungen können im Unterricht gefunden werden!</p><br><br><br>
      
 
   </div>
